@@ -7,4 +7,11 @@ public class Rechteck {
         this.breite = breite;
     }
     
+    public void setLaenge(int laenge) {
+        this.laenge = laenge;
+    }
+    
+    public int getLaenge() {
+        return this.laenge;
+    }
 }
